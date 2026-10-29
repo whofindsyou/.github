@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mark-transparent-920.png" alt="Whofindsyou logo: two eyes looking right" width="230">
+  <img src="https://raw.githubusercontent.com/whofindsyou/.github/main/profile/assets/mark-transparent-920.png" alt="Whofindsyou logo: two eyes looking right" width="230">
 </p>
 
 <h1 align="center">Whofindsyou</h1>
